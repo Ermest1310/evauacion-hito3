@@ -1,6 +1,3 @@
-# Registro de bug y observaciones exploratorias
-
-No se adjuntó evidencia gráfica. Solo BUG-01 es un fallo reportado por el estudiante; los otros requieren confirmar requisitos.
 
 ## BUG-01 — Se puede finalizar un pedido con el carrito vacío
 
